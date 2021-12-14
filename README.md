@@ -2,16 +2,16 @@
 A list of things I usually keep installed on my PC. Made for my own convenience.
 
 # Content
-- [Drivers & runtime](#drivers-runtime)
+- [Drivers & runtime](#drivers--runtime)
 - [Dev tools](#dev-tools)
 - [Python](#python)
 - [Java](#java)
 - [Communication](#communication)
 - [Media](#media)
 - [Files](#files)
-- [System & Utility](#system-utility)
+- [System & Utility](#system--utility)
 - [Special software](#special-software)
-- [Beautify & Convenience](#beautify-convenience)
+- [Beautify & Convenience](#beautify--convenience)
 - [Games](#games)
 
 ## Drivers & runtime
