@@ -68,7 +68,7 @@ A list of things I usually keep installed on my PC. Made for my own convenience.
 - [NBTExplorer](https://github.com/jaquadro/NBTExplorer/releases) - NBT tag editor
 - [Disk-O](https://disk-o.cloud/) | [Yandex.Disk](https://disk.yandex.ru/download) -  Cloud storage clients
 
-## System & Utility
+## System and utility
 
 - [Process Hacker](https://github.com/processhacker/processhacker/releases) - System monitor
 - [AIDA64](https://www.aida64.com/downloads) - Diagnostic tool
@@ -85,7 +85,7 @@ A list of things I usually keep installed on my PC. Made for my own convenience.
 - [OBS](https://obsproject.com/download) - Broadcasting and recording
 - [Radmin VPN](https://www.radmin-vpn.com/) - Hosted VPN network tool
 
-## Beautify & convenience
+## Beautify and convenience
 
 - [ModernFlyouts](https://www.microsoft.com/store/productId/9MT60QV066RP) - Default flyouts replacer
 - [SmartTaskbar](https://www.microsoft.com/store/productId/9PJM69MPS6T9) - Auto toggle state of taskbar
