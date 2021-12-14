@@ -2,26 +2,26 @@
 A list of things I usually keep installed on my PC. Made for my own convenience.
 
 # Content
-- [Drivers & runtime](#drivers)
+- [Drivers & runtime](#drivers-runtime)
 - [Dev tools](#dev-tools)
-- [Python](#Python)
-- [Java](#Java)
-- [Communication](#Communication)
-- [Media](#Media)
-- [Files](#Files)
-- [System and utility](#System&utility)
+- [Python](#python)
+- [Java](#java)
+- [Communication](#communication)
+- [Media](#media)
+- [Files](#files)
+- [System & Utility](#system-utility)
 - [Special software](#special-software)
-- [Beautify & Convenience](#Beautify&Convenience)
-- [Games](#Games)
+- [Beautify & Convenience](#beautify-convenience)
+- [Games](#games)
 
-## Drivers & runtime {#drivers}
+## Drivers & runtime
 
 - [Microsoft Visual C++ 2005-2022 Redistributable Package](https://repack.me/software/systemreq/31-microsoft-visual-c-2005-2008-2010-2012-2013-2019-2022-redistributable-package.html)
 - [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) | [.NET Framework 3.5](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net35-sp1) | [.NET Runtime 5](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
 - [Snappy Driver Installer](https://sdi-tool.org/download/)
 - [NVIDIA Drivers](https://www.nvidia.ru/Download/index.aspx)
 
-## Dev tools {#dev-tools}
+## Dev tools
 
 - [Visual Studio](https://visualstudio.microsoft.com/vs/)
 - [Sublime Text 3](https://www.sublimetext.com/3) | [Theme](https://github.com/daltonmenezes/aura-theme/tree/main/packages/sublime-text) - Text editor
