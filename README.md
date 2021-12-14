@@ -1,5 +1,5 @@
 # OX's Awesome
-A list of things I usually keep installed on my PC
+A list of things I usually keep installed on my PC. Made for my own convenience.
 
 # Content
 - [Drivers and runtime](#Drivers-and-runtime)
