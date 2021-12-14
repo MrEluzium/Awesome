@@ -18,11 +18,14 @@ A list of things I usually keep installed on my PC
 
 ## Dev tools
 
-- [Sublime Text 3](https://www.sublimetext.com/3) | [Theme](https://github.com/daltonmenezes/aura-theme/tree/main/packages/sublime-text)
-- [Sublime Merge](https://www.sublimemerge.com/download)
-- [Hyper](https://hyper.is/) | [Theme](https://github.com/daltonmenezes/aura-theme/tree/main/packages/hyper)
-- [Obsidian](https://obsidian.md/)
-- [FileZilla](https://filezilla.ru/get/)
+- [Sublime Text 3](https://www.sublimetext.com/3) | [Theme](https://github.com/daltonmenezes/aura-theme/tree/main/packages/sublime-text) - Text editor
+- [Hyper](https://hyper.is/) | [Theme](https://github.com/daltonmenezes/aura-theme/tree/main/packages/hyper) - Terminal
+- [Sourcetree](https://www.sourcetreeapp.com/) | [Git](https://git-scm.com/downloads) - Git GUI
+- [RepoZ](https://github.com/awaescher/RepoZ/releases) - Repository hub
+- [Obsidian](https://obsidian.md/) - Markdown editor
+- [FileZilla](https://filezilla.ru/get/) - FTP Client
+- [Solar-PuTTY](https://www.solarwinds.com/free-tools/solar-putty/registration) - SSH Client
+- [TablePlus](https://tableplus.com/download) - GUI tool for databases
 
 ## Python
 
@@ -44,7 +47,10 @@ A list of things I usually keep installed on my PC
 ## Media
 
 - [VLC Media Player](https://www.videolan.org/vlc/)
-- [Picasa 3](https://www.softportal.com/get-4377-picasa.html)
-- [MediaInfo](https://mediaarea.net/en/MediaInfo/Download/Windows)
-- [HandBrake](https://handbrake.fr/downloads.php)
-- [qBittorrent](https://www.qbittorrent.org/download.php)
+- [Picasa 3](https://www.softportal.com/get-4377-picasa.html) - Image Viewer 
+- [Image Eye](https://www.fmjsoft.com/imageeye.html#download) - Viewer for specific formats
+- [MediaInfo](https://mediaarea.net/en/MediaInfo/Download/Windows) - View file information
+- [HandBrake](https://handbrake.fr/downloads.php) - Video converter
+- [qBittorrent](https://www.qbittorrent.org/download.php) - BitTorrent client
+- [4K Video Downloader](https://www.4kdownload.com/ru/downloads)
+- [QuickLook](https://github.com/QL-Win/QuickLook/releases)
