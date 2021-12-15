@@ -20,6 +20,7 @@ A list of things I usually keep installed on my PC. Made for my own convenience.
 - [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) | [.NET Framework 3.5](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net35-sp1) | [.NET Runtime 5](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
 - [Snappy Driver Installer](https://sdi-tool.org/download/)
 - [NVIDIA Drivers](https://www.nvidia.ru/Download/index.aspx)
+- [MinGW](https://nuwen.net/mingw.html)
 
 ## Dev tools
 
