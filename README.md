@@ -24,14 +24,15 @@ A list of things I usually keep installed on my PC. Made for my own convenience.
 
 ## Dev tools
 
-- [Visual Studio](https://visualstudio.microsoft.com/vs/)
-- [Sublime Text 3](https://www.sublimetext.com/3) | [Theme](https://github.com/daltonmenezes/aura-theme/tree/main/packages/sublime-text) - Text editor
+- [Atom]() | [Theme](https://atom.io/themes/seti-ui) | [Syntax](https://atom.io/themes/seti-syntax)
+- [Sublime Text 3](https://www.sublimetext.com/3) | [Theme](https://github.com/daltonmenezes/aura-theme/tree/main/packages/sublime-text)
 - [Hyper](https://hyper.is/) | [Theme](https://github.com/daltonmenezes/aura-theme/tree/main/packages/hyper) - Terminal
 - [Sourcetree](https://www.sourcetreeapp.com/) | [Git](https://git-scm.com/downloads) - Git GUI
 - [Obsidian](https://obsidian.md/) - Markdown editor
 - [FileZilla](https://filezilla.ru/get/) - FTP Client
 - [Solar-PuTTY](https://www.solarwinds.com/free-tools/solar-putty/registration) - SSH Client
 - [TablePlus](https://tableplus.com/download) - GUI tool for databases
+- [Docker](https://www.docker.com/products/docker-desktop) - Containers
 
 ## Python
 
@@ -54,7 +55,7 @@ A list of things I usually keep installed on my PC. Made for my own convenience.
 ## Media
 
 - [VLC Media Player](https://www.videolan.org/vlc/)
-- [Picasa 3](https://www.softportal.com/get-4377-picasa.html) - Image Viewer 
+- [Picasa 3](https://www.softportal.com/get-4377-picasa.html) - Image Viewer
 - [Image Eye](https://www.fmjsoft.com/imageeye.html#download) - Viewer for specific formats
 - [MediaInfo](https://mediaarea.net/en/MediaInfo/Download/Windows) - View file information
 - [HandBrake](https://handbrake.fr/downloads.php) - Video converter
