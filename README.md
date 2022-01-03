@@ -1,7 +1,9 @@
 # OX's Awesome
+
 A list of things I usually keep installed on my PC. Made for my own convenience.
 
 # Content
+
 - [Drivers & runtime](#drivers--runtime)
 - [Dev tools](#dev-tools)
 - [Python](#python)
@@ -28,7 +30,8 @@ A list of things I usually keep installed on my PC. Made for my own convenience.
 - [Sublime Text 3](https://www.sublimetext.com/3) | [Theme](https://github.com/daltonmenezes/aura-theme/tree/main/packages/sublime-text)
 - [Hyper](https://hyper.is/) | [Theme](https://github.com/daltonmenezes/aura-theme/tree/main/packages/hyper) - Terminal
 - [Sourcetree](https://www.sourcetreeapp.com/) | [Git](https://git-scm.com/downloads) - Git GUI
-- [Obsidian](https://obsidian.md/) - Markdown editor
+- [Mark Text](https://github.com/marktext/marktext/releases) - Markdown editor
+- [Obsidian](https://obsidian.md/) - Project knowledge base manager
 - [FileZilla](https://filezilla.ru/get/) - FTP Client
 - [Solar-PuTTY](https://www.solarwinds.com/free-tools/solar-putty/registration) - SSH Client
 - [TablePlus](https://tableplus.com/download) - GUI tool for databases
@@ -65,6 +68,7 @@ A list of things I usually keep installed on my PC. Made for my own convenience.
 - [QuickLook](https://github.com/QL-Win/QuickLook/releases)
 
 ## Files
+
 - [7Zip](https://www.7-zip.org/download.html) | [WinRar](https://www.win-rar.com/download.html) - Archivers
 - [AcrobatDC](https://get.adobe.com/reader/) - PDF viewer
 - [NBTExplorer](https://github.com/jaquadro/NBTExplorer/releases) - NBT tag editor
