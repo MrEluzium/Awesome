@@ -39,7 +39,7 @@ A list of things I usually keep installed on my PC. Made for my own convenience.
 
 ## Python
 
-- [PyCharm](https://www.jetbrains.com/ru-ru/pycharm/)
+- [PyCharm](https://www.jetbrains.com/ru-ru/pycharm/) | [Font](https://github.com/source-foundry/Hack-windows-installer)
 - [Python Releases](https://www.python.org/downloads/)
 
 ## Java
