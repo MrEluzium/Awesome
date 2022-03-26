@@ -86,15 +86,15 @@ A list of things I usually keep installed on my PC. Made for my own convenience.
 ## Special software
 
 - [Blender](https://www.blender.org/download/) - 3D modeling
-- [Piskel](https://www.piskelapp.com/download) - Pixel art
+- [Aseprite](https://www.aseprite.org/) - Pixel art
 - [Audacity](https://www.audacityteam.org/download/) - Audio editor and recorder
 - [OBS](https://obsproject.com/download) - Broadcasting and recording
 - [Radmin VPN](https://www.radmin-vpn.com/) - Hosted VPN network tool
+- [Windscribe](https://windscribe.com/download) | [Proton](https://protonvpn.com/download-windows) - VPN service
 
 ## Beautify & Convenience
 
 - [ModernFlyouts](https://www.microsoft.com/store/productId/9MT60QV066RP) - Default flyouts replacer
-- [SmartTaskbar](https://www.microsoft.com/store/productId/9PJM69MPS6T9) - Auto toggle state of taskbar
 - [EarTrumpet](https://www.microsoft.com/store/productId/9NBLGGH516XP) - Volume control
 - [RepoZ](https://github.com/awaescher/RepoZ/releases) - Repository hub
 - [MiniBin](https://e-sushi.net/#minibin) - Light recycle bin for tray
