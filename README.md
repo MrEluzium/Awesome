@@ -26,9 +26,9 @@ A list of things I usually keep installed on my PC. Made for my own convenience.
 
 ## Dev tools
 
-- [Atom]() | [Theme](https://atom.io/themes/seti-ui) | [Syntax](https://atom.io/themes/seti-syntax)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/community/) | [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/)
 - [Sublime Text 3](https://www.sublimetext.com/3) | [Theme](https://github.com/daltonmenezes/aura-theme/tree/main/packages/sublime-text)
-- [Hyper](https://hyper.is/) | [Theme](https://github.com/daltonmenezes/aura-theme/tree/main/packages/hyper) - Terminal
+- [Hyper](https://hyper.is/) - Terminal
 - [Sourcetree](https://www.sourcetreeapp.com/) | [Git](https://git-scm.com/downloads) - Git GUI
 - [Mark Text](https://github.com/marktext/marktext/releases) - Markdown editor
 - [Obsidian](https://obsidian.md/) - Project knowledge base manager
@@ -63,7 +63,6 @@ A list of things I usually keep installed on my PC. Made for my own convenience.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo/Download/Windows) - View file information
 - [HandBrake](https://handbrake.fr/downloads.php) - Video converter
 - [qBittorrent](https://www.qbittorrent.org/download.php) - BitTorrent client
-- [Lightshot](https://app.prntscr.com/ru/download.html) - Screenshot tool
 - [4K Video Downloader](https://www.4kdownload.com/ru/downloads)
 - [QuickLook](https://github.com/QL-Win/QuickLook/releases)
 
@@ -72,7 +71,7 @@ A list of things I usually keep installed on my PC. Made for my own convenience.
 - [7Zip](https://www.7-zip.org/download.html) | [WinRar](https://www.win-rar.com/download.html) - Archivers
 - [AcrobatDC](https://get.adobe.com/reader/) - PDF viewer
 - [NBTExplorer](https://github.com/jaquadro/NBTExplorer/releases) - NBT tag editor
-- [Disk-O](https://disk-o.cloud/) | [Yandex.Disk](https://disk.yandex.ru/download) -  Cloud storage clients
+- [Air Live Drive](https://www.airlivedrive.com/en/download/) -  Cloud storage clients
 
 ## System & Utility
 
@@ -85,9 +84,10 @@ A list of things I usually keep installed on my PC. Made for my own convenience.
 
 ## Special software
 
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Video and audio editing
 - [Blender](https://www.blender.org/download/) - 3D modeling
 - [Aseprite](https://www.aseprite.org/) - Pixel art
-- [Audacity](https://www.audacityteam.org/download/) - Audio editor and recorder
+- [Audacity](https://www.audacityteam.org/download/) - Audio editing and recording
 - [OBS](https://obsproject.com/download) - Broadcasting and recording
 - [Radmin VPN](https://www.radmin-vpn.com/) - Hosted VPN network tool
 - [Windscribe](https://windscribe.com/download) | [Proton](https://protonvpn.com/download-windows) - VPN service
@@ -104,6 +104,4 @@ A list of things I usually keep installed on my PC. Made for my own convenience.
 - [Steam](https://store.steampowered.com/about)
 - [Minecraft Launcher](https://www.microsoft.com/store/productId/9PGW18NPBZV5)
 - [Epig Games Launcher](https://www.epicgames.com/store/ru/download)
-- [Ubisoft Connect](https://ubisoftconnect.com/)
-- [Battle.net](https://www.blizzard.com/ru-ru/download?product=bnetdesk)
 - [Faceit AC](https://www.faceit.com/ru/anti-cheat)
