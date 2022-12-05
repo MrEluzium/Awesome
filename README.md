@@ -4,14 +4,16 @@ A list of things I usually keep installed on my PC. Made for my own convenience.
 
 # Content
 
-  - [Drivers & runtime](#drivers--runtime)
+- [Awesome](#awesome)
+- [Content](#content)
+  - [Drivers \& runtime](#drivers--runtime)
   - [Dev tools](#dev-tools)
   - [Communication](#communication)
   - [Media](#media)
   - [Files](#files)
-  - [System & Utility](#system--utility)
+  - [System \& Utility](#system--utility)
   - [Special software](#special-software)
-  - [Beautify & Convenience](#beautify--convenience)
+  - [Beautify \& Convenience](#beautify--convenience)
   - [Games](#games)
 
 ## Drivers & runtime
@@ -32,6 +34,7 @@ A list of things I usually keep installed on my PC. Made for my own convenience.
 - [Obsidian](https://obsidian.md/) - Project knowledge base manager
 - [FileZilla](https://filezilla.ru/get/) - FTP Client
 - [TablePlus](https://tableplus.com/download) - GUI tool for databases
+- [ImHex](https://github.com/WerWolv/ImHex/releases) - Hex editor
 - [Docker](https://www.docker.com/products/docker-desktop) - Containers
 
 ## Communication
